@@ -20,7 +20,6 @@ import {
   IAuthConfig,
   JwtHelper
 } from 'angular2-jwt';
-import 'rxjs';
 import { Observable } from 'rxjs/Observable';
 import { Observer } from 'rxjs/Observer';
 import { Subject } from 'rxjs/Subject';
